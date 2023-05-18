@@ -1,2 +1,7 @@
-gjetyjjyj55je5
-ryhwthq4t
+var idade = prompt("qual sua idade");
+
+if (idade >= 16) {
+  console.log("apto a votar");
+}else if (idade <16) {
+  console.log("nao pode votar");
+}
