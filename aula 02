@@ -21,3 +21,19 @@ if (item == "tv") {
   console.log("isso é da cely")
   }
   
+  DOGIDO = VALIDAÇÃO DE SENHA
+  
+  //CODIGO = VALIDAÇÃO DE SENHA
+
+var senha = prompt("Informe sua Senha");
+
+
+if (senha == "123"){
+  console.log ("Senha correta")
+}
+else if (senha == "1234") {
+  console.log ("quase lá")
+}
+else 
+  console.log("senha incorreta")
+
