@@ -5,3 +5,19 @@ if (idade >= 16) {
 }else if (idade <16) {
   console.log("nao pode votar");
 }
+
+CODIGO =  DE QUEM É O BEM?
+
+var item = prompt("enforme seu bem");
+
+
+if (item == "casa"){
+  console.log ("esse bem é de caio")
+}
+if (item == "bike"){
+  console.log ("é de henrique")
+}
+if (item == "tv") {
+  console.log("isso é da cely")
+  }
+  
