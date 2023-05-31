@@ -6,7 +6,7 @@ if (idade >= 16) {
   console.log("nao pode votar");
 }
 
-CODIGO =  DE QUEM É O BEM?
+CODIGO =  DE QUEM É O  BEM?
 
 var item = prompt("enforme seu bem");
 
