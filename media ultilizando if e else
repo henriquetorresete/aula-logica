@@ -1,0 +1,13 @@
+var nota1 = Number (prompt("digite a primeira nota"))
+var nota2 = Number (prompt ("digite a segunda nota"))
+var nota3 = Number (prompt ("digite a terceita nota"))
+
+if ((nota1 + nota2 + nota3) /3 >= 7 && (nota1 + nota2 + nota3) /3 <10){
+    console.log("aprovado")
+}
+else if ((nota1 + nota2 + nota3) /3 < 7){
+    console.log("reprovado")
+} 
+else if ((nota1 + nota2 + nota3) /3 == 10 ){
+    console.log("aprovado com distinção")
+} 
