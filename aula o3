@@ -11,3 +11,13 @@ else if ((nota1 + nota2 + nota3) /3 < 7){
 else if ((nota1 + nota2 + nota3) /3 == 10 ){
     console.log("aprovado com distinção")
 } 
+//
+//contagem regreviva
+
+console.log ("vai começar");
+var num = 10
+while( num >=0){
+    console.log(`contagem regreciva ${num}`);
+    num--
+}
+console.log("eu avisei");
