@@ -1,0 +1,15 @@
+var nota1 =  Number(prompt("digite 1 nota"));
+var nota2 = Number(prompt("digite 2 nota"));
+var nota3 = Number(prompt ("digite 3 nota"));
+
+var result = ((nota1 + nota2 + nota3) /3)
+
+if (result >= 5 && result <=9){
+    console.log("fez mais que a obrigação");
+}
+else if (result <5){
+    console.log("tente no proximo ano seu burro")
+}
+else if (result ==10){
+   console.log("parabens, voce é nota 10")
+}
